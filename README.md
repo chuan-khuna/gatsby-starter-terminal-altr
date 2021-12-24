@@ -16,3 +16,7 @@ npm install
 
 - fixed `npm install` conflict. -- theme ui
 - finding a way to easier install my customised theme (package hosted on github)
+
+```txt
+npm install git+https://github.com/chuan-khuna/gatsby-theme-terminal-altr.git
+```
