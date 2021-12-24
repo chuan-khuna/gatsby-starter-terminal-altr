@@ -8,7 +8,8 @@ module.exports = {
     profileImage: ``,
     lang: `en`,
     config: {
-      sidebarWidth: 280
+      sidebarWidth: 240,
+      postPerPage: 50,
     }
   },
   plugins: [
