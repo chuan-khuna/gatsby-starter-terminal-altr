@@ -1,5 +1,6 @@
 import codeTheme from '@theme-ui/prism/presets/night-owl.json'
 import baseTheme from '@chuan-khuna/gatsby-theme-terminal-altr/src/gatsby-plugin-theme-ui'
+import { darken } from "@theme-ui/color"
 
 export default {
   ...baseTheme,
@@ -85,6 +86,7 @@ export default {
     pre: {
       ...baseTheme.styles.pre,
       ...codeTheme,
+      backgroundColor: darken("#05192D", 0.075),
     },
   },
 }

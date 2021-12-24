@@ -2,7 +2,7 @@
   "name": "gatsby-starter-terminal-altr",
   "private": true,
   "description": "A Gatsby starter for gatsby-theme-terminal",
-  "version": "0.1.0",
+  "version": "20211224.09.50",
   "author": "Chuan Khuna <chuan.khuna@gmail.com>",
   "dependencies": {
     "@chuan-khuna/gatsby-theme-terminal-altr": "^20211223.15.18",
